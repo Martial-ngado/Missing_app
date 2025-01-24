@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789999089370",
+    "project_id": "missing-f59d1",
+    "storage_bucket": "missing-f59d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789999089370:android:e587f1cb0cedab949f17e3",
+        "android_client_info": {
+          "package_name": "com.example.missing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzGvq8qQr4VKMIkHccYclTQFSYB5xajx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
